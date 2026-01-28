@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scrapy
+requests
+playwright
+opensearch-py
+redis
+sentence-transformers
